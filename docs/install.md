@@ -1,5 +1,7 @@
 # Installation
 
+Before installing on any platform, you will need [**Python 3.7**](https://www.python.org/downloads/release/python-377/). Other versions will not work.
+
 ### Options
 * [Mac](install.md#mac)
 * [Windows](install.md#windows)
@@ -9,7 +11,7 @@
 * [Docker](install.md#docker)
 
 ## Mac
-You will need to install [cairo](https://cairographics.org), [sox](https://sourceforge.net/projects/sox/), and [ffmpeg](https://www.ffmpeg.org/). If you would like to use [LaTeX](https://www.latex-project.org/), you can install a LaTeX distribution (such as MacTeX). You will also need [**Python 3.7**](https://www.python.org/downloads/release/python-377/) (3.8 won't work).
+You will need to install [cairo](https://cairographics.org), [sox](https://sourceforge.net/projects/sox/), and [ffmpeg](https://www.ffmpeg.org/). If you would like to use [LaTeX](https://www.latex-project.org/), you can install a LaTeX distribution (such as MacTeX).
 
 You can install these from the linked websites, or you can install them all with [Homebrew](https://brew.sh).
 ```sh
