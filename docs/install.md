@@ -3,12 +3,12 @@
 Before installing on any platform, you will need [**Python 3.7**](https://www.python.org/downloads/release/python-377/). Other versions will not work.
 
 ### Options
-* [Mac](install.md#mac)
-* [Windows](install.md#windows)
+* [Mac](#mac)
+* [Windows](#windows)
 * [Linux](https://eulertour.com/docs)
-* [Anaconda](installation.md#anaconda)
-* [Python `virtualenv`](install.md#python-virtualenv)
-* [Docker](install.md#docker)
+* [Anaconda](#anaconda)
+* [Python `virtualenv`](#python-virtualenv)
+* [Docker](#docker)
 
 ## Mac
 You will need to install [cairo](https://cairographics.org), [sox](https://sourceforge.net/projects/sox/), and [ffmpeg](https://www.ffmpeg.org/). If you would like to use [LaTeX](https://www.latex-project.org/), you can install a LaTeX distribution (such as MacTeX).
