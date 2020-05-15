@@ -33,7 +33,6 @@ You will need ffmpeg, cairo, and sox. If you would like to use LaTeX, you can do
  1. Installing ffmpeg is harder on Windows devices. You should follow [these instructions](https://www.wikihow.com/Install-FFmpeg-on-Windows) to get it installed properly.
 
  2. You can install cairo from [here](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pycairo). For most users, `pycairo‑1.19.1‑cp37‑cp37m‑win32.whl` will do fine. Then, install it with pip:
-
 ```sh
 pip3 install C:/path/to/pycairo‑1.19.1‑cp37‑cp37m‑win32.whl
 ```
